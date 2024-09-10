@@ -9,5 +9,6 @@ class First{
         int b  = sc.nextInt();
         int c = a+b;
         System.out.println("Sum of A and B is: "+c);
+        System.out.println("Happy coding...");
     }
 }
